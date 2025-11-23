@@ -70,7 +70,7 @@ const PublicNavbar = () => {
            <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-indigo-600 to-violet-600 flex items-center justify-center text-white font-bold text-lg shadow-sm group-hover:scale-105 transition-transform">
               U
             </div>
-            <span className="font-bold text-xl text-slate-800 tracking-tight hidden sm:block">UNUGHA Events</span>
+            <span className="font-bold text-xl text-slate-800 tracking-tight hidden sm:block">Luma</span>
         </Link>
 
         {/* Right: Actions (Luma Style) */}
@@ -314,7 +314,7 @@ const AppLayout = ({ children, type = 'public' }: { children?: React.ReactNode, 
       {effectiveType === 'public' && (
         <footer className="bg-white border-t border-slate-200 py-12 mt-20">
           <div className="max-w-7xl mx-auto px-4 text-center">
-            <p className="text-slate-500">© 2024 UNUGHA Event Platform. All rights reserved.</p>
+            <p className="text-slate-500">Maruf Muchlisin © 2025 Luma Event Platform. All rights reserved.</p>
           </div>
         </footer>
       )}
