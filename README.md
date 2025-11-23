@@ -1,4 +1,7 @@
 # ✨ UNUGHA EVENT PLATFORM
+<p align="center">
+  <img src="images/me.jpg" alt="Me Ma’ruf" style="border-radius: 20px; box-shadow: 0px 0px 10px rgba(0,120,255,0.4); padding: 5px; />
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=22D3EE&center=true&vCenter=true&width=800&lines=UNUGHA+EVENT+PLATFORM;Platform+Manajemen+Event+Kampus+Modern;Built+with+React+%2B+Supabase;Analisis+%26+Pengujian+Sistem+IF7A)
 
