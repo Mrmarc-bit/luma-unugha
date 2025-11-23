@@ -17,9 +17,9 @@
 ### 👥 Anggota Kelompok
 | Peran | Nama |
 |-------|------|
-| Ketua | **Ma’ruf Muchlisin** – [NIM] |
-| Anggota | Akmal Ubaidillah – [NIM] |
-| Anggota | Eko Patrio – [NIM] |
+| Ketua | **Ma’ruf Muchlisin** – [22EO10013] |
+| Anggota | Akmal Ubaidillah – [22EO10013] |
+| Anggota | Eko Patrio – [22EO10013] |
 
 ---
 
