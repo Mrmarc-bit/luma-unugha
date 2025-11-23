@@ -1,20 +1,85 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ✨ UNUGHA EVENT PLATFORM
 
-# Run and deploy your AI Studio app
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=22D3EE&center=true&vCenter=true&width=800&lines=UNUGHA+EVENT+PLATFORM;Platform+Manajemen+Event+Kampus+Modern;Built+with+React+%2B+Supabase;Analisis+%26+Pengujian+Sistem+IF7A)
 
-This contains everything you need to run your app locally.
+## 🔖 Badges
+![React](https://img.shields.io/badge/React-Frontend-61dafb?style=for-the-badge&logo=react&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
+![Prototype](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1r4Gu6TBMfQV7koSs2dEpf5d7DEU4zsat
+---
 
-## Run Locally
+## 📚 Informasi Proyek
+**Mata Kuliah** : Analisis & Pengujian Sistem – IF7A  
+**Proyek** : UNUGHA Event Platform  
+**Tujuan** : Pengembangan platform internal untuk manajemen event kampus
 
-**Prerequisites:**  Node.js
+### 👥 Anggota Kelompok
+| Peran | Nama |
+|-------|------|
+| Ketua | **Ma’ruf Muchlisin** – [NIM] |
+| Anggota | Akmal Ubaidillah – [NIM] |
+| Anggota | Eko Patrio – [NIM] |
+
+---
+
+## 🧾 Deskripsi Proyek
+UNUGHA Event Platform adalah aplikasi web yang digunakan untuk memanajemen event kampus.  
+Versi awal memiliki satu aktor yaitu **User**, dengan fitur:
+
+- Create Event
+- Edit Event
+- View Event List
+- Calendar Event View
+- Generate Dummy Data
+- Edit Profile & Upload Foto
+- Change Password
+- Login Authentication
+
+---
+
+## ✨ Fitur Utama
+| Fitur | Deskripsi |
+|-------|-----------|
+| 🔐 Login | Autentikasi user via Supabase |
+| 🧾 Create Event | Form event lengkap |
+| 🛠 Edit Event | Mengubah event yang sudah ada |
+| 📋 View Event List | Menampilkan semua event |
+| 📅 Calendar View | Event dalam tampilan kalender |
+| 👤 Edit Profile | Update nama, bio & foto |
+| 🔑 Change Password | Ganti password |
+| ⚙ Generate Dummy | Buat data event contoh otomatis |
+
+---
+
+## 🛠 Tech Stack
+| Layer | Teknologi |
+|--------|-----------|
+| Frontend | React 19, Vite, Tailwind CSS, React Router |
+| Backend | Supabase Client API |
+| Database | PostgreSQL |
+| Storage | Supabase Storage |
+| Calendar | FullCalendar / React Calendar |
+| Icons | Lucide React |
+| Auth | Supabase Auth |
+
+---
+
+## 🧪 Pengujian Fungsional
+
+| No | Fitur | Expected Result | Status |
+|----|--------|----------------|--------|
+| 1 | Login | Masuk Dashboard | Passed |
+| 2 | Create Event | Data tersimpan | Passed |
+| 3 | Edit Event | Perubahan tersimpan | Passed |
+| 4 | Calendar View | Event tampil | Passed |
+| 5 | Edit Profile | Data berhasil diperbarui | Passed |
+| 6 | Change Password | Password berubah | Passed |
+| 7 | Generate Dummy | Dummy data tampil | Passed |
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+<p align="center"><b>Dibuat dengan ❤️ oleh Tim Ma'ruf Muchlisin</b></p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F97316&center=true&vCenter=true&width=600&lines=Terus+berkarya.+Terus+berproses.+Terus+maju."> </p> 
+
+---
